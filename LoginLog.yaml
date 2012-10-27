@@ -1,0 +1,7 @@
+---
+name: Login Log
+description: This module keeps a log of user logins.
+category: User
+version: 1.0
+core: '>1.0'
+author: 'Christopher Castro <chris@quickapps.es>'
